@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWebAPIWithPostgreSqlInDocker", "DemoWebAPIWithPostgreSqlInDocker\DemoWebAPIWithPostgreSqlInDocker.csproj", "{3D98DEAA-A243-4F58-A296-6B8B535AED6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D98DEAA-A243-4F58-A296-6B8B535AED6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D98DEAA-A243-4F58-A296-6B8B535AED6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D98DEAA-A243-4F58-A296-6B8B535AED6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D98DEAA-A243-4F58-A296-6B8B535AED6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F76AB91C-FA88-4DFA-BA25-1898889B9AF8}
+	EndGlobalSection
+EndGlobal
