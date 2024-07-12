@@ -156,12 +156,12 @@ Imagine you're working on a project that requires a robust, scalable database so
             - "5432:5432"
           volumes:
               - pgdata:/var/lib/postgresql/data
-  networks:
-    default:
-      name: my_custom_network 
-  
-  volumes:
-    pgdata:
+      networks:
+        default:
+          name: my_custom_network 
+      
+      volumes:
+        pgdata:
 
         
         
